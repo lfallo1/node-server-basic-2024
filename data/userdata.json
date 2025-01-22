@@ -1,0 +1,94 @@
+{
+  "users": [
+    {
+      "profile": {
+        "id": "usr_123abc789def",
+        "username": "sarahcodes",
+        "email": "sarah.parker@example.com",
+        "firstName": "Sarah",
+        "lastName": "Parker",
+        "role": "admin"
+      }
+    },
+    {
+      "profile": {
+        "id": "usr_456def123ghi",
+        "username": "alexdev",
+        "email": "alex.chen@example.com",
+        "firstName": "Alex",
+        "lastName": "Chen",
+        "role": "user"
+      }
+    },
+    {
+      "profile": {
+        "id": "usr_789ghi456jkl",
+        "username": "miketech",
+        "email": "mike.rodriguez@example.com",
+        "firstName": "Mike",
+        "lastName": "Rodriguez",
+        "role": "admin"
+      }
+    },
+    {
+      "profile": {
+        "id": "usr_012jkl789mno",
+        "username": "lucydesign",
+        "email": "lucy.johnson@example.com",
+        "firstName": "Lucy",
+        "lastName": "Johnson",
+        "role": "user"
+      }
+    },
+    {
+      "profile": {
+        "id": "usr_345mno012pqr",
+        "username": "davebuild",
+        "email": "dave.patel@example.com",
+        "firstName": "Dave",
+        "lastName": "Patel",
+        "role": "user"
+      }
+    },
+    {
+      "profile": {
+        "id": "usr_678pqr345stu",
+        "username": "emmascrum",
+        "email": "emma.wilson@example.com",
+        "firstName": "Emma",
+        "lastName": "Wilson",
+        "role": "admin"
+      }
+    },
+    {
+      "profile": {
+        "id": "usr_901stu678vwx",
+        "username": "tomdev",
+        "email": "tom.singh@example.com",
+        "firstName": "Tom",
+        "lastName": "Singh",
+        "role": "user"
+      }
+    },
+    {
+      "profile": {
+        "id": "usr_234vwx901yz0",
+        "username": "zoecode",
+        "email": "zoe.martinez@example.com",
+        "firstName": "Zoe",
+        "lastName": "Martinez",
+        "role": "user"
+      }
+    },
+    {
+      "profile": {
+        "id": "usr_789xyz456abc",
+        "username": "jsmith",
+        "email": "john.smith@example.com",
+        "firstName": "John",
+        "lastName": "Smith",
+        "role": "admin"
+      }
+    }
+  ]
+}

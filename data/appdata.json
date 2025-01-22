@@ -1,0 +1,21 @@
+{
+  "config": {
+    "theme": "light",
+    "language": "en-US",
+    "apiEndpoints": {
+      "base": "https://api.example.com",
+      "auth": "https://api.example.com/auth",
+      "users": "https://api.example.com/users"
+    }
+  },
+  "businessData": {
+    "companyName": "TechCorp Solutions",
+    "features": [
+      "Cloud Integration",
+      "Real-time Analytics",
+      "Advanced Security",
+      "24/7 Support"
+    ],
+    "isMaintenanceMode": false
+  }
+}
