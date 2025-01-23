@@ -4,9 +4,9 @@
       "profile": {
         "id": "usr_123abc789def",
         "username": "sarahcodes",
-        "email": "sarah.parker@example.com",
+        "email": "sarah.parker.smith@sstudios.com",
         "firstName": "Sarah",
-        "lastName": "Parker",
+        "lastName": "Parker-Smith",
         "role": "admin"
       }
     },
@@ -46,7 +46,7 @@
         "username": "davebuild",
         "email": "dave.patel@example.com",
         "firstName": "Dave",
-        "lastName": "Patel",
+        "lastName": "Patelly",
         "role": "user"
       }
     },
